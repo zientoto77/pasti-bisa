@@ -8,7 +8,7 @@ background: linear-gradient(to bottom, rgb(35 60 124) 0%, rgba(10,6,2,1) 30%) !i
 }
     @media screen and (max-width: 1200px) {
         .results {
-            border: solid 1px #f0ad31 !important;
+            border: solid 1px #952531 !important;
             background-color: rgba(0, 0, 0, 0.55) !important;
             width: 49% !important;
             display: inline-block !important;
@@ -46,7 +46,7 @@ background: linear-gradient(to bottom, rgb(35 60 124) 0%, rgba(10,6,2,1) 30%) !i
 }
 
 .results {
-    border: solid 3px #fcfafa!important;
+    border: solid 3px #f0ad31!important;
     background: transparent !important;
     border-radius: 2px !important;
 
