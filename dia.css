@@ -47,7 +47,7 @@ background: linear-gradient(to bottom, rgb(35 60 124) 0%, rgba(10,6,2,1) 30%) !i
 .results {
     border: solid 2px #f0ad31!important;
     background: transparent !important;
-    border-radius: 2px !important;
+    border-radius: 15px 2px 15px 5px !important;
 
 }
 
