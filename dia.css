@@ -3,9 +3,7 @@
 .panel-blue {
 background: linear-gradient(to bottom, rgb(35 60 124) 0%, rgba(10,6,2,1) 30%) !important
 }
-.main {
-    background-color: #000 !important;
-}
+
     @media screen and (max-width: 1200px) {
         .results {
             border: solid 1px #952531 !important;
