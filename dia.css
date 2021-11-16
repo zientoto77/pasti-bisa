@@ -19,7 +19,7 @@ background: linear-gradient(to bottom, rgb(35 60 124) 0%, rgba(10,6,2,1) 30%) !i
 
 .pool-name {
     color: #ffffff!important;
-    background: linear-gradient(to bottom,#f0ad31, #f0ad31)!important;
+    background: linear-gradient(to bottom,#000, #000)!important;
     width: 100%!important;
     font-size: 18px!important;
     font-style: initial;
@@ -46,7 +46,7 @@ background: linear-gradient(to bottom, rgb(35 60 124) 0%, rgba(10,6,2,1) 30%) !i
 }
 
 .results {
-    border: solid 3px #fcfafa!important;
+    border: solid 2px #f0ad31!important;
     background: transparent !important;
     border-radius: 2px !important;
 
