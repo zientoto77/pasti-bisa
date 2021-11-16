@@ -33,11 +33,11 @@ background: linear-gradient(to bottom, rgb(35 60 124) 0%, rgba(10,6,2,1) 30%) !i
     padding-top: 0!important;
     text-align: center!important;
     display: block!important;
-    color: #fcfafa!important;
+    color: #000!important;
 }
 
 .pool-result {
-    color: #fcfafa!important;
+    color: #fff!important;
     text-align: center!important;
     width: 100%!important;
     font-size: 36px!important;
