@@ -25,7 +25,7 @@ background: linear-gradient(to bottom, rgb(35 60 124) 0%, rgba(10,6,2,1) 30%) !i
     font-style: initial;
     font-weight: 700!important;
     text-align: center!important;
-    border-bottom: 1px solid #000!important;
+    border-bottom: 1px solid #c93204!important;
 }
 .pool-date {
     font-size: 15px!important;
@@ -33,7 +33,7 @@ background: linear-gradient(to bottom, rgb(35 60 124) 0%, rgba(10,6,2,1) 30%) !i
     padding-top: 0!important;
     text-align: center!important;
     display: block!important;
-    color: #fff!important;
+    color: #fcfafa!important;
 }
 
 .pool-result {
