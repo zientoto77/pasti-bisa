@@ -12,6 +12,7 @@ background: linear-gradient(to bottom, #00000000) !important
             display: inline-block !important;
             border-radius: 15px 2px 15px 5px !important;
             margin-bottom: 0 !important;
+            padding: 0 !important;
         }
 
 .pool-name {
