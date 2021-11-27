@@ -53,7 +53,7 @@ background: linear-gradient(to bottom, #00000000) !important
     width: 100%;
     display: inline-block;
     background: transparent;
-    padding: 5px 15px;
+    padding: 2px 15px;
     color: #000000;
     /* border: 1px solid ##fefffc; */
     -webkit-transition: all 0.25s linear;
