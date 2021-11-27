@@ -39,7 +39,7 @@ background: linear-gradient(to bottom, #00000000) !important
     width: 100%!important;
     font-size: 21px!important;
     line-height: 1.0!important;
-    float: !important;
+    float: none!important;
 }
 
 .results {
