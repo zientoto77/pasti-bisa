@@ -21,7 +21,7 @@ background: linear-gradient(to bottom, #00000000) !important
     font-style: oblique;
     font-weight: 700!important;
     text-align: center!important;
-    border-bottom: 2px solid #f0ad31!important;
+    border-bottom: 4px dotted #f0ad31!important;
 }
         
 .pool-date {
